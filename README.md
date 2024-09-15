@@ -1,0 +1,1 @@
+In this coursework for Signal and Systems course in Sharif University of Technology, we receive a merge of signals from two audio files to shift the frequency of one of the initial audio files implying Discrete Fourier Transform(DFT) to find the equation for IDF(Inverse DFT) by (using Python) language.
